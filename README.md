@@ -1,3 +1,4 @@
+[Click here to open the dashboard](https://public.tableau.com/shared/KJC8JNZ5D?:display_count=n&:origin=viz_share_link)
 Airbnb Revenue Analysis & Market Insight (Tableau)
 Project Overview
 
