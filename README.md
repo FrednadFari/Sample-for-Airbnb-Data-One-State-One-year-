@@ -1,3 +1,6 @@
+![airbnb2008](https://github.com/user-attachments/assets/f724dd45-d59d-4b9d-b6ba-7f347a051b84)
+
+
 [Click here to open the dashboard](https://public.tableau.com/views/airbnb2008/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Airbnb Revenue Analysis & Market Insight (Tableau)
 Project Overview
